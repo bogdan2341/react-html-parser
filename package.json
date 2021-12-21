@@ -38,7 +38,7 @@
     "inner html",
     "dangerouslySetInnerHTML"
   ],
-  "author": "Peter Newnham",
+  "author": "Bogdanov4653",
   "license": "MIT",
   "devDependencies": {
     "babel": "^6.5.2",
